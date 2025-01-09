@@ -14,12 +14,13 @@ I am a lifetime entrepreneur, founder, builder, designer, and everything in betw
 
 ## 🌱 Currently Exploring
 
-- 🤖 Advanced Agentic AI Development
-  - Crafting intelligent solutions using multi-agent frameworks like Eliza and CrewAI.
-  - Leveraging Phidata and OpenAI swarms for building sophisticated AI models.
-  - Utilizing vector databases to enhance data processing and retrieval efficiency.
-  - Developing robust applications with TypeScript for a reliable and scalable codebase.
-  - Implementing seamless communications and interactions among agents and systems.
+- 🚀 Building Agentic AI Systems
+  - Delving into the development of intelligent agents using Eliza, CrewAI, and OpenAI Swarm to create dynamic solutions.
+  - Mastering fine-tuning and prompt engineering to enhance AI capabilities and performance.
+  - Investigating multi-agent frameworks for scalable and robust AI architectures.
+  - Engaging in front-end development with React and Typescript for seamless, interactive user experiences.
+  - Implementing back-end solutions with Django to support powerful, scalable server-side applications.
+  - Utilizing vector database storage for efficient, high-performance data management and retrieval.
 
 ## 📬 Get in Touch
 
