@@ -14,14 +14,12 @@ I am a lifetime entrepreneur, founder, builder, designer, and everything in betw
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-
-## 🏆 Achievements
+- 🤖 Advanced Agentic AI Development
+  - Crafting intelligent solutions using multi-agent frameworks like Eliza and CrewAI.
+  - Leveraging Phidata and OpenAI swarms for building sophisticated AI models.
+  - Utilizing vector databases to enhance data processing and retrieval efficiency.
+  - Developing robust applications with TypeScript for a reliable and scalable codebase.
+  - Implementing seamless communications and interactions among agents and systems.
 
 ## 📬 Get in Touch
 
